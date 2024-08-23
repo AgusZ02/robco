@@ -5,8 +5,11 @@ This project is a recreation of the terminal hacking minigame from the Fallout s
 ## Play Now
 
 Experience the Fallout terminal hacking challenge right in your browser:
-
-[Play Fallout Terminal Hacking](https://agusz02.github.io/robco/)
+<p align="center">
+  <a href="https://agusz02.github.io/robco/">Play Robco Hack Minigame</a>
+  <br/>
+  <img src="https://github.com/user-attachments/assets/37865828-96de-40e6-8e80-1ab3c6c5a435" alt="drawing" width="550"/>
+</p>
 
 ## Overview
 
@@ -36,7 +39,7 @@ In the Fallout games, players encounter computer terminals that must be "hacked"
 
 ## License
 
-This project is [CC BY-NC]([https://choosealicense.com/licenses/mit/](https://creativecommons.org/licenses/by-nc/4.0/deed)) licensed.
+This project is [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed) licensed.
 
 ## Acknowledgements
 
