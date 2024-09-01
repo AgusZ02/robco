@@ -1,4 +1,4 @@
-# [Robco Terminal Hacking Minigame](https://agusz02.github.io/robco/)
+# [Robco Terminal Hacking Minigame](https://agarciacif.github.io/robco/)
 
 This project is a recreation of the terminal hacking minigame from the Fallout series, implemented using React JS and hosted on GitHub Pages.
 
@@ -6,7 +6,7 @@ This project is a recreation of the terminal hacking minigame from the Fallout s
 
 Experience the Fallout terminal hacking challenge right in your browser:
 <p align="center">
-  <a href="https://agusz02.github.io/robco/">Play Robco Hack Minigame</a>
+  <a href="https://agarciacif.github.io/robco/">Play Robco Hack Minigame</a>
   <br/>
   <img src="https://github.com/user-attachments/assets/37865828-96de-40e6-8e80-1ab3c6c5a435" alt="drawing" width="550"/>
 </p>
